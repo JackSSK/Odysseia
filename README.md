@@ -1,2 +1,2 @@
 # Odysseia
- Optimize Lora training with designed dataset structure
+ Optimize Lora model performance with designed training dataset structure
