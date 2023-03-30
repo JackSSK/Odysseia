@@ -154,3 +154,5 @@ cython_debug/
 data/*
 logs/*
 huggingface/*
+output/*
+ppt/*
